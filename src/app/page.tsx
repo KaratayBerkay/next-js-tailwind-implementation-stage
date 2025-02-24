@@ -27,25 +27,37 @@ function Home() {
           href={"/aspect"}
           className="bg-sky-800 text-white h-12 flex items-center justify-center"
         >
-          <span>Aspect</span>
+          <span>Grid</span>
         </Link>
         <Link
           href={"/aspect"}
           className="bg-sky-800 text-white h-12 flex items-center justify-center"
         >
-          <span>Aspect</span>
+          <span>Typography</span>
         </Link>
         <Link
           href={"/aspect"}
           className="bg-sky-800 text-white h-12 flex items-center justify-center"
         >
-          <span>Aspect</span>
+          <span>Borders</span>
         </Link>
         <Link
           href={"/aspect"}
           className="bg-sky-800 text-white h-12 flex items-center justify-center"
         >
-          <span>Aspect</span>
+          <span>Transition</span>
+        </Link>
+        <Link
+          href={"/aspect"}
+          className="bg-sky-800 text-white h-12 flex items-center justify-center"
+        >
+          <span>Interactivity</span>
+        </Link>
+        <Link
+          href={"/aspect"}
+          className="bg-sky-800 text-white h-12 flex items-center justify-center"
+        >
+          <span>Scrolling</span>
         </Link>
       </div>
     </div>
